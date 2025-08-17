@@ -19,6 +19,7 @@ Aufgaben für alle Teilnehmer:
 -Erstellt zusätzlich eine neue Textdatei mit eurem Namen (z. B. magnus.txt)
 
 4.Commit & Push
+
 -changes committen
 -Öffnet einen Pull Request von eurem Feature-Branch in den develop-Branch
 
