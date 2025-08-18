@@ -11,7 +11,7 @@ Aufgaben für alle Teilnehmer:
 2.Feature-Branch erstellen
 
 - Erstellt einen neuen Branch von develop
-- Verwendet folgendes Muster für den Namen: feature/<ticketname & Nummer>
+- Verwendet folgendes Muster für den Namen: feature/<Ticketnummer & Name>
   
 3.Änderungen vornehmen
   
