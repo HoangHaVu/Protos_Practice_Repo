@@ -23,11 +23,11 @@ Aufgaben für alle Teilnehmer:
 -changes committen
 -Öffnet einen Pull Request von eurem Feature-Branch in den develop-Branch
 
-Magnus → Ticket 101 TestMag→ Branch: 
+Magnus → TI 101 TestMag→ Branch: 
 
-Mauri → Ticket 102 TestMau→ Branch: 
+Mauri → TI 102 TestMau→ Branch: 
 
-Mirco → Ticket 103 TestMir→ Branch: 
+Mirco → TI 103 TestMir→ Branch: 
 
-Hoang → Ticket 104 TestHoa→ Branch: 
+Hoang → TI 104 TestHoa→ Branch: 
 
